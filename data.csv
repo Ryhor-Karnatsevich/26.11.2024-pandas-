@@ -1,0 +1,6 @@
+Employee_ID,Name,Department,Position,Salary,Start_Date,Performance_Score,Is_Remote,Hours_Worked,Projects_Completed,Last_Promotion_Date
+1,John Doe,IT,Software Engineer,75000,2018-05-21,4.2,True,1800,12,2021-07-15
+2,Jane Smith,Marketing,Marketing Manager,68000,2020-11-30,3.8,False,1600,8,2023-03-10
+3,Emily Davis,HR,HR Specialist,52000,2017-04-17,4.6,False,1400,15,2022-01-05
+4,Michael Brown,Finance,Financial Analyst,82000,2019-06-01,4.1,True,1750,10,2020-10-25
+5,Chris Wilson,Sales,Sales Representative,58000,2021-08-19,3.9,True,1450,9,2023-09-14
